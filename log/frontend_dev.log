@@ -1,0 +1,366 @@
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin" (/admin/user.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_new" (/admin/user/new.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_create" (/admin/user.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_edit" (/admin/user/:id/edit.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_update" (/admin/user/:id.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_delete" (/admin/user/:id.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_show" (/admin/user/:id.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_object" (/admin/user/:id/:action.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_collection" (/admin/user/:action/action.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin" (/admin/group.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_new" (/admin/group/new.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_create" (/admin/group.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_edit" (/admin/group/:id/edit.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_update" (/admin/group/:id.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_delete" (/admin/group/:id.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_show" (/admin/group/:id.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_object" (/admin/group/:id/:action.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_collection" (/admin/group/:action/action.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin" (/admin/permission.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_new" (/admin/permission/new.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_create" (/admin/permission.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_edit" (/admin/permission/:id/edit.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_update" (/admin/permission/:id.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_delete" (/admin/permission/:id.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_show" (/admin/permission/:id.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_object" (/admin/permission/:id/:action.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_collection" (/admin/permission/:action/action.:sf_format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfRoute "a_sync" (/async/:action)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect aRoute "a_admin" (/)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect aRoute "a_media_other" (/:action)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect aRoute "a_media_image_show" (/view/:slug)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfRoute "a_media_image_original" (/uploads/media_items/:slug.original.:format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfRoute "a_media_image" (/uploads/media_items/:slug.:width.:height.:resizeType.:format)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect aRoute "a_media_index" (/)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect aRoute "a_media_index_type" (/:type)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect aRoute "a_media_index_category" (/category/:category)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect aRoute "a_media_index_tag" (/tag/:tag)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect aRoute "a_media_select" (/select)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfRoute "a_media_info" (/info)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfRoute "a_media_tags" (/tags)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect aRoute "a_media_upload_images" (/uploadImages)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect aRoute "a_media_edit_images" (/editImages)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect aRoute "a_media_new_video" (/newVideo)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect aRoute "a_media_edit_video" (/editVideo)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfRoute "taggable_add_tag" (/admin/addTag/:object_class/:object_id)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfRoute "taggable_remove_tag" (/admin/removeTag/:object_class/:object_id)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/login)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/logout)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_password" (/request_password)
+Nov 02 15:21:51 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'utf8' - ()
+Nov 02 15:21:51 symfony [info] {Doctrine_Connection_Statement} execute : SELECT a.id AS a__id, a.slug AS a__slug, a.template AS a__template, a.view_is_secure AS a__view_is_secure, a.archived AS a__archived, a.admin AS a__admin, a.author_id AS a__author_id, a.deleter_id AS a__deleter_id, a.engine AS a__engine, a.created_at AS a__created_at, a.updated_at AS a__updated_at, a.lft AS a__lft, a.rgt AS a__rgt, a.level AS a__level, LENGTH(a.slug) AS a__0 FROM a_page a WHERE (a.slug IN (?) AND a.engine IS NOT NULL) ORDER BY a__0 desc LIMIT 1 - (/)
+Nov 02 15:21:51 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'a',  'action' => 'show',  'slug' => '/',)
+Nov 02 15:21:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 02 15:21:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 02 15:21:51 symfony [info] {aActions} Call "aActions->executeShow()"
+Nov 02 15:21:51 symfony [info] {Doctrine_Connection_Statement} execute : SELECT a.id AS a__id, a.slug AS a__slug, a.template AS a__template, a.view_is_secure AS a__view_is_secure, a.archived AS a__archived, a.admin AS a__admin, a.author_id AS a__author_id, a.deleter_id AS a__deleter_id, a.engine AS a__engine, a.created_at AS a__created_at, a.updated_at AS a__updated_at, a.lft AS a__lft, a.rgt AS a__rgt, a.level AS a__level, a2.id AS a2__id, a2.page_id AS a2__page_id, a2.name AS a2__name, a2.culture AS a2__culture, a2.latest_version AS a2__latest_version, a3.id AS a3__id, a3.area_id AS a3__area_id, a3.version AS a3__version, a3.author_id AS a3__author_id, a3.diff AS a3__diff, a3.created_at AS a3__created_at, a3.updated_at AS a3__updated_at, a4.id AS a4__id, a4.slot_id AS a4__slot_id, a4.area_version_id AS a4__area_version_id, a4.permid AS a4__permid, a4.rank AS a4__rank, a5.id AS a5__id, a5.type AS a5__type, a5.variant AS a5__variant, a5.value AS a5__value, a6.id AS a6__id, a6.type AS a6__type, a6.service_url AS a6__service_url, a6.format AS a6__format, a6.width AS a6__width, a6.height AS a6__height, a6.embed AS a6__embed, a6.title AS a6__title, a6.description AS a6__description, a6.credit AS a6__credit, a6.owner_id AS a6__owner_id, a6.view_is_secure AS a6__view_is_secure, a6.created_at AS a6__created_at, a6.updated_at AS a6__updated_at, a6.slug AS a6__slug FROM a_page a LEFT JOIN a_area a2 ON a.id = a2.page_id AND (a2.culture = ?) LEFT JOIN a_area_version a3 ON a2.id = a3.area_id AND (a2.latest_version = a3.version) LEFT JOIN a_area_version_slot a4 ON a3.id = a4.area_version_id LEFT JOIN a_slot a5 ON a4.slot_id = a5.id LEFT JOIN a_slot_media_item a7 ON (a5.id = a7.slot_id) LEFT JOIN a_media_item a6 ON a6.id = a7.media_item_id WHERE (a.slug = ?) ORDER BY a4.rank asc - (en, /)
+Nov 02 15:21:51 symfony [info] {aActions} Change template to "CURRENT/default"
+Nov 02 15:21:51 symfony [info] {sfPHPView} Render "/home/hormigon/usvn/files/checkout/agroapex/apps/frontend/modules/a/templates/defaultTemplate.php"
+Nov 02 15:21:51 symfony [info] {main} Set slot "content_class"
+Nov 02 15:21:51 symfony [info] {main} Set slot "a-breadcrumb"
+Nov 02 15:21:51 symfony [info] {main} Set slot "a-subnav"
+Nov 02 15:21:51 symfony [info] {main} Call "a->executeArea()"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_area.php"
+Nov 02 15:21:51 symfony [info] {main} Set slot "a-slot-content-1-izquierda-2"
+Nov 02 15:21:51 symfony [info] {main} Call "a->executeSlot()"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_slot.php"
+Nov 02 15:21:51 symfony [info] {main} Call "aRichTextSlot->executeNormalView()"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aRichTextSlot/templates/_normalView.php"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_simpleEditWithVariants.php"
+Nov 02 15:21:51 symfony [info] {main} Set slot "a-slot-controls-1-izquierda-2"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_simpleEditButton.php"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_variant.php"
+Nov 02 15:21:51 symfony [info] {main} Get slot "a-slot-content-1-izquierda-2"
+Nov 02 15:21:51 symfony [info] {main} Set slot "a-slot-content-1-izquierda-3"
+Nov 02 15:21:51 symfony [info] {main} Call "a->executeSlot()"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_slot.php"
+Nov 02 15:21:51 symfony [info] {main} Call "aSlideshowSlot->executeNormalView()"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_normalView.php"
+Nov 02 15:21:51 symfony [info] {main} Call "aSlideshowSlot->executeSlideshow()"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_slideshow.php"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_slideshowItem.php"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_slideshowItem.php"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_slideshowItem.php"
+Nov 02 15:21:51 symfony [info] {main} Get slot "a-slot-content-1-izquierda-3"
+Nov 02 15:21:51 symfony [info] {main} Set slot "lado-der"
+Nov 02 15:21:51 symfony [info] {Doctrine_Connection_Statement} execute : SELECT a.id AS a__id, a.slug AS a__slug, a.template AS a__template, a.view_is_secure AS a__view_is_secure, a.archived AS a__archived, a.admin AS a__admin, a.author_id AS a__author_id, a.deleter_id AS a__deleter_id, a.engine AS a__engine, a.created_at AS a__created_at, a.updated_at AS a__updated_at, a.lft AS a__lft, a.rgt AS a__rgt, a.level AS a__level, a2.id AS a2__id, a2.page_id AS a2__page_id, a2.name AS a2__name, a2.culture AS a2__culture, a2.latest_version AS a2__latest_version, a3.id AS a3__id, a3.area_id AS a3__area_id, a3.version AS a3__version, a3.author_id AS a3__author_id, a3.diff AS a3__diff, a3.created_at AS a3__created_at, a3.updated_at AS a3__updated_at, a4.id AS a4__id, a4.slot_id AS a4__slot_id, a4.area_version_id AS a4__area_version_id, a4.permid AS a4__permid, a4.rank AS a4__rank, a5.id AS a5__id, a5.type AS a5__type, a5.variant AS a5__variant, a5.value AS a5__value FROM a_page a LEFT JOIN a_area a2 ON a.id = a2.page_id AND ((a2.name = ? AND a2.culture = ?)) LEFT JOIN a_area_version a3 ON a2.id = a3.area_id AND (a2.latest_version = a3.version) LEFT JOIN a_area_version_slot a4 ON a3.id = a4.area_version_id LEFT JOIN a_slot a5 ON a4.slot_id = a5.id WHERE ((a.lft > ? AND a.rgt < ?) AND a.level <= ?) ORDER BY a.lft asc - (title, en, 1, 34, 1)
+Nov 02 15:21:51 symfony [info] {main} Call "a->executeArea()"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_area.php"
+Nov 02 15:21:51 symfony [info] {sfPHPView} Decorate content with "/home/hormigon/usvn/files/checkout/agroapex/apps/frontend/templates/layout.php"
+Nov 02 15:21:51 symfony [info] {sfPHPView} Render "/home/hormigon/usvn/files/checkout/agroapex/apps/frontend/templates/layout.php"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_globalTools.php"
+Nov 02 15:21:51 symfony [info] {Doctrine_Connection_Statement} execute : SELECT a.id AS a__id, a.slug AS a__slug, a.template AS a__template, a.view_is_secure AS a__view_is_secure, a.archived AS a__archived, a.admin AS a__admin, a.author_id AS a__author_id, a.deleter_id AS a__deleter_id, a.engine AS a__engine, a.created_at AS a__created_at, a.updated_at AS a__updated_at, a.lft AS a__lft, a.rgt AS a__rgt, a.level AS a__level, a2.id AS a2__id, a2.page_id AS a2__page_id, a2.name AS a2__name, a2.culture AS a2__culture, a2.latest_version AS a2__latest_version, a3.id AS a3__id, a3.area_id AS a3__area_id, a3.version AS a3__version, a3.author_id AS a3__author_id, a3.diff AS a3__diff, a3.created_at AS a3__created_at, a3.updated_at AS a3__updated_at, a4.id AS a4__id, a4.slot_id AS a4__slot_id, a4.area_version_id AS a4__area_version_id, a4.permid AS a4__permid, a4.rank AS a4__rank, a5.id AS a5__id, a5.type AS a5__type, a5.variant AS a5__variant, a5.value AS a5__value, a6.id AS a6__id, a6.type AS a6__type, a6.service_url AS a6__service_url, a6.format AS a6__format, a6.width AS a6__width, a6.height AS a6__height, a6.embed AS a6__embed, a6.title AS a6__title, a6.description AS a6__description, a6.credit AS a6__credit, a6.owner_id AS a6__owner_id, a6.view_is_secure AS a6__view_is_secure, a6.created_at AS a6__created_at, a6.updated_at AS a6__updated_at, a6.slug AS a6__slug FROM a_page a LEFT JOIN a_area a2 ON a.id = a2.page_id AND (a2.culture = ?) LEFT JOIN a_area_version a3 ON a2.id = a3.area_id AND (a2.latest_version = a3.version) LEFT JOIN a_area_version_slot a4 ON a3.id = a4.area_version_id LEFT JOIN a_slot a5 ON a4.slot_id = a5.id LEFT JOIN a_slot_media_item a7 ON (a5.id = a7.slot_id) LEFT JOIN a_media_item a6 ON a6.id = a7.media_item_id WHERE (a.slug = ?) ORDER BY a4.rank asc - (en, /admin/media)
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_login.php"
+Nov 02 15:21:51 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_language.php"
+Nov 02 15:21:51 symfony [info] {main} Set slot "a-search"
+Nov 02 15:21:51 symfony [info] {main} Get slot "a-search"
+Nov 02 15:21:51 symfony [err] {sfRenderException} The template "_header.php" does not exist or is unreadable in "".
+Nov 02 15:21:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Nov 02 15:21:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Configuration 464.97 ms (16)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Factories 372.68 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.03 ms (5)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Action "a/show" 116.78 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} View "Template" for "a/show" 217.02 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Component "a/area" 0.88 ms (2)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Partial "a/_area" 35.30 ms (2)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Component "a/slot" 1.96 ms (2)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Partial "a/_slot" 24.39 ms (2)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Component "aRichTextSlot/normalView" 2.13 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Partial "aRichTextSlot/_normalView" 4.40 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Partial "a/_simpleEditWithVariants" 3.58 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Partial "a/_simpleEditButton" 1.72 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Partial "a/_variant" 0.70 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Component "aSlideshowSlot/normalView" 2.30 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Partial "aSlideshowSlot/_normalView" 8.17 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Component "aSlideshowSlot/slideshow" 0.19 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Partial "aSlideshowSlot/_slideshow" 5.79 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Partial "aSlideshowSlot/_slideshowItem" 1.39 ms (3)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Partial "a/_globalTools" 21.55 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Partial "a/_login" 1.20 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Partial "a/_language" 0.40 ms (1)
+Nov 02 15:21:51 symfony [info] {sfWebDebugLogger} Partial "a/_header" 80.22 ms (1)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin" (/admin/user.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_new" (/admin/user/new.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_create" (/admin/user.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_edit" (/admin/user/:id/edit.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_update" (/admin/user/:id.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_delete" (/admin/user/:id.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_show" (/admin/user/:id.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_object" (/admin/user/:id/:action.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_collection" (/admin/user/:action/action.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin" (/admin/group.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_new" (/admin/group/new.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_create" (/admin/group.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_edit" (/admin/group/:id/edit.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_update" (/admin/group/:id.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_delete" (/admin/group/:id.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_show" (/admin/group/:id.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_object" (/admin/group/:id/:action.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_collection" (/admin/group/:action/action.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin" (/admin/permission.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_new" (/admin/permission/new.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_create" (/admin/permission.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_edit" (/admin/permission/:id/edit.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_update" (/admin/permission/:id.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_delete" (/admin/permission/:id.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_show" (/admin/permission/:id.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_object" (/admin/permission/:id/:action.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_collection" (/admin/permission/:action/action.:sf_format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfRoute "a_sync" (/async/:action)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect aRoute "a_admin" (/)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect aRoute "a_media_other" (/:action)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect aRoute "a_media_image_show" (/view/:slug)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfRoute "a_media_image_original" (/uploads/media_items/:slug.original.:format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfRoute "a_media_image" (/uploads/media_items/:slug.:width.:height.:resizeType.:format)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect aRoute "a_media_index" (/)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect aRoute "a_media_index_type" (/:type)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect aRoute "a_media_index_category" (/category/:category)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect aRoute "a_media_index_tag" (/tag/:tag)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect aRoute "a_media_select" (/select)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfRoute "a_media_info" (/info)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfRoute "a_media_tags" (/tags)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect aRoute "a_media_upload_images" (/uploadImages)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect aRoute "a_media_edit_images" (/editImages)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect aRoute "a_media_new_video" (/newVideo)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect aRoute "a_media_edit_video" (/editVideo)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfRoute "taggable_add_tag" (/admin/addTag/:object_class/:object_id)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfRoute "taggable_remove_tag" (/admin/removeTag/:object_class/:object_id)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/login)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/logout)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_password" (/request_password)
+Nov 02 15:25:45 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'utf8' - ()
+Nov 02 15:25:45 symfony [info] {Doctrine_Connection_Statement} execute : SELECT a.id AS a__id, a.slug AS a__slug, a.template AS a__template, a.view_is_secure AS a__view_is_secure, a.archived AS a__archived, a.admin AS a__admin, a.author_id AS a__author_id, a.deleter_id AS a__deleter_id, a.engine AS a__engine, a.created_at AS a__created_at, a.updated_at AS a__updated_at, a.lft AS a__lft, a.rgt AS a__rgt, a.level AS a__level, LENGTH(a.slug) AS a__0 FROM a_page a WHERE (a.slug IN (?) AND a.engine IS NOT NULL) ORDER BY a__0 desc LIMIT 1 - (/)
+Nov 02 15:25:45 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'a',  'action' => 'show',  'slug' => '/',)
+Nov 02 15:25:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 02 15:25:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 02 15:25:46 symfony [info] {aActions} Call "aActions->executeShow()"
+Nov 02 15:25:46 symfony [info] {Doctrine_Connection_Statement} execute : SELECT a.id AS a__id, a.slug AS a__slug, a.template AS a__template, a.view_is_secure AS a__view_is_secure, a.archived AS a__archived, a.admin AS a__admin, a.author_id AS a__author_id, a.deleter_id AS a__deleter_id, a.engine AS a__engine, a.created_at AS a__created_at, a.updated_at AS a__updated_at, a.lft AS a__lft, a.rgt AS a__rgt, a.level AS a__level, a2.id AS a2__id, a2.page_id AS a2__page_id, a2.name AS a2__name, a2.culture AS a2__culture, a2.latest_version AS a2__latest_version, a3.id AS a3__id, a3.area_id AS a3__area_id, a3.version AS a3__version, a3.author_id AS a3__author_id, a3.diff AS a3__diff, a3.created_at AS a3__created_at, a3.updated_at AS a3__updated_at, a4.id AS a4__id, a4.slot_id AS a4__slot_id, a4.area_version_id AS a4__area_version_id, a4.permid AS a4__permid, a4.rank AS a4__rank, a5.id AS a5__id, a5.type AS a5__type, a5.variant AS a5__variant, a5.value AS a5__value, a6.id AS a6__id, a6.type AS a6__type, a6.service_url AS a6__service_url, a6.format AS a6__format, a6.width AS a6__width, a6.height AS a6__height, a6.embed AS a6__embed, a6.title AS a6__title, a6.description AS a6__description, a6.credit AS a6__credit, a6.owner_id AS a6__owner_id, a6.view_is_secure AS a6__view_is_secure, a6.created_at AS a6__created_at, a6.updated_at AS a6__updated_at, a6.slug AS a6__slug FROM a_page a LEFT JOIN a_area a2 ON a.id = a2.page_id AND (a2.culture = ?) LEFT JOIN a_area_version a3 ON a2.id = a3.area_id AND (a2.latest_version = a3.version) LEFT JOIN a_area_version_slot a4 ON a3.id = a4.area_version_id LEFT JOIN a_slot a5 ON a4.slot_id = a5.id LEFT JOIN a_slot_media_item a7 ON (a5.id = a7.slot_id) LEFT JOIN a_media_item a6 ON a6.id = a7.media_item_id WHERE (a.slug = ?) ORDER BY a4.rank asc - (en, /)
+Nov 02 15:25:46 symfony [info] {aActions} Change template to "CURRENT/default"
+Nov 02 15:25:46 symfony [info] {sfPHPView} Render "/home/hormigon/usvn/files/checkout/agroapex/apps/frontend/modules/a/templates/defaultTemplate.php"
+Nov 02 15:25:46 symfony [info] {main} Set slot "content_class"
+Nov 02 15:25:46 symfony [info] {main} Set slot "a-breadcrumb"
+Nov 02 15:25:46 symfony [info] {main} Set slot "a-subnav"
+Nov 02 15:25:46 symfony [info] {main} Call "a->executeArea()"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_area.php"
+Nov 02 15:25:46 symfony [info] {main} Set slot "a-slot-content-1-izquierda-2"
+Nov 02 15:25:46 symfony [info] {main} Call "a->executeSlot()"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_slot.php"
+Nov 02 15:25:46 symfony [info] {main} Call "aRichTextSlot->executeNormalView()"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aRichTextSlot/templates/_normalView.php"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_simpleEditWithVariants.php"
+Nov 02 15:25:46 symfony [info] {main} Set slot "a-slot-controls-1-izquierda-2"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_simpleEditButton.php"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_variant.php"
+Nov 02 15:25:46 symfony [info] {main} Get slot "a-slot-content-1-izquierda-2"
+Nov 02 15:25:46 symfony [info] {main} Set slot "a-slot-content-1-izquierda-3"
+Nov 02 15:25:46 symfony [info] {main} Call "a->executeSlot()"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_slot.php"
+Nov 02 15:25:46 symfony [info] {main} Call "aSlideshowSlot->executeNormalView()"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_normalView.php"
+Nov 02 15:25:46 symfony [info] {main} Call "aSlideshowSlot->executeSlideshow()"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_slideshow.php"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_slideshowItem.php"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_slideshowItem.php"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_slideshowItem.php"
+Nov 02 15:25:46 symfony [info] {main} Get slot "a-slot-content-1-izquierda-3"
+Nov 02 15:25:46 symfony [info] {main} Set slot "lado-der"
+Nov 02 15:25:46 symfony [info] {Doctrine_Connection_Statement} execute : SELECT a.id AS a__id, a.slug AS a__slug, a.template AS a__template, a.view_is_secure AS a__view_is_secure, a.archived AS a__archived, a.admin AS a__admin, a.author_id AS a__author_id, a.deleter_id AS a__deleter_id, a.engine AS a__engine, a.created_at AS a__created_at, a.updated_at AS a__updated_at, a.lft AS a__lft, a.rgt AS a__rgt, a.level AS a__level, a2.id AS a2__id, a2.page_id AS a2__page_id, a2.name AS a2__name, a2.culture AS a2__culture, a2.latest_version AS a2__latest_version, a3.id AS a3__id, a3.area_id AS a3__area_id, a3.version AS a3__version, a3.author_id AS a3__author_id, a3.diff AS a3__diff, a3.created_at AS a3__created_at, a3.updated_at AS a3__updated_at, a4.id AS a4__id, a4.slot_id AS a4__slot_id, a4.area_version_id AS a4__area_version_id, a4.permid AS a4__permid, a4.rank AS a4__rank, a5.id AS a5__id, a5.type AS a5__type, a5.variant AS a5__variant, a5.value AS a5__value FROM a_page a LEFT JOIN a_area a2 ON a.id = a2.page_id AND ((a2.name = ? AND a2.culture = ?)) LEFT JOIN a_area_version a3 ON a2.id = a3.area_id AND (a2.latest_version = a3.version) LEFT JOIN a_area_version_slot a4 ON a3.id = a4.area_version_id LEFT JOIN a_slot a5 ON a4.slot_id = a5.id WHERE ((a.lft > ? AND a.rgt < ?) AND a.level <= ?) ORDER BY a.lft asc - (title, en, 1, 34, 1)
+Nov 02 15:25:46 symfony [info] {main} Call "a->executeArea()"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_area.php"
+Nov 02 15:25:46 symfony [info] {sfPHPView} Decorate content with "/home/hormigon/usvn/files/checkout/agroapex/apps/frontend/templates/layout.php"
+Nov 02 15:25:46 symfony [info] {sfPHPView} Render "/home/hormigon/usvn/files/checkout/agroapex/apps/frontend/templates/layout.php"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_globalTools.php"
+Nov 02 15:25:46 symfony [info] {Doctrine_Connection_Statement} execute : SELECT a.id AS a__id, a.slug AS a__slug, a.template AS a__template, a.view_is_secure AS a__view_is_secure, a.archived AS a__archived, a.admin AS a__admin, a.author_id AS a__author_id, a.deleter_id AS a__deleter_id, a.engine AS a__engine, a.created_at AS a__created_at, a.updated_at AS a__updated_at, a.lft AS a__lft, a.rgt AS a__rgt, a.level AS a__level, a2.id AS a2__id, a2.page_id AS a2__page_id, a2.name AS a2__name, a2.culture AS a2__culture, a2.latest_version AS a2__latest_version, a3.id AS a3__id, a3.area_id AS a3__area_id, a3.version AS a3__version, a3.author_id AS a3__author_id, a3.diff AS a3__diff, a3.created_at AS a3__created_at, a3.updated_at AS a3__updated_at, a4.id AS a4__id, a4.slot_id AS a4__slot_id, a4.area_version_id AS a4__area_version_id, a4.permid AS a4__permid, a4.rank AS a4__rank, a5.id AS a5__id, a5.type AS a5__type, a5.variant AS a5__variant, a5.value AS a5__value, a6.id AS a6__id, a6.type AS a6__type, a6.service_url AS a6__service_url, a6.format AS a6__format, a6.width AS a6__width, a6.height AS a6__height, a6.embed AS a6__embed, a6.title AS a6__title, a6.description AS a6__description, a6.credit AS a6__credit, a6.owner_id AS a6__owner_id, a6.view_is_secure AS a6__view_is_secure, a6.created_at AS a6__created_at, a6.updated_at AS a6__updated_at, a6.slug AS a6__slug FROM a_page a LEFT JOIN a_area a2 ON a.id = a2.page_id AND (a2.culture = ?) LEFT JOIN a_area_version a3 ON a2.id = a3.area_id AND (a2.latest_version = a3.version) LEFT JOIN a_area_version_slot a4 ON a3.id = a4.area_version_id LEFT JOIN a_slot a5 ON a4.slot_id = a5.id LEFT JOIN a_slot_media_item a7 ON (a5.id = a7.slot_id) LEFT JOIN a_media_item a6 ON a6.id = a7.media_item_id WHERE (a.slug = ?) ORDER BY a4.rank asc - (en, /admin/media)
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_login.php"
+Nov 02 15:25:46 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_language.php"
+Nov 02 15:25:46 symfony [info] {main} Set slot "a-search"
+Nov 02 15:25:46 symfony [info] {main} Get slot "a-search"
+Nov 02 15:25:46 symfony [err] {sfRenderException} The template "_header.php" does not exist or is unreadable in "".
+Nov 02 15:25:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Nov 02 15:25:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Configuration 4.44 ms (16)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Factories 147.22 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.03 ms (5)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Action "a/show" 117.20 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} View "Template" for "a/show" 188.63 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Component "a/area" 0.88 ms (2)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Partial "a/_area" 33.38 ms (2)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Component "a/slot" 2.01 ms (2)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Partial "a/_slot" 22.02 ms (2)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Component "aRichTextSlot/normalView" 2.15 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Partial "aRichTextSlot/_normalView" 4.35 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Partial "a/_simpleEditWithVariants" 3.54 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Partial "a/_simpleEditButton" 1.70 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Partial "a/_variant" 0.70 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Component "aSlideshowSlot/normalView" 2.32 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Partial "aSlideshowSlot/_normalView" 8.29 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Component "aSlideshowSlot/slideshow" 0.20 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Partial "aSlideshowSlot/_slideshow" 5.85 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Partial "aSlideshowSlot/_slideshowItem" 1.41 ms (3)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Partial "a/_globalTools" 23.15 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Partial "a/_login" 1.41 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Partial "a/_language" 0.43 ms (1)
+Nov 02 15:25:46 symfony [info] {sfWebDebugLogger} Partial "a/_header" 56.52 ms (1)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin" (/admin/user.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_new" (/admin/user/new.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_create" (/admin/user.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_edit" (/admin/user/:id/edit.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_update" (/admin/user/:id.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_delete" (/admin/user/:id.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_show" (/admin/user/:id.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_object" (/admin/user/:id/:action.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_user_admin_collection" (/admin/user/:action/action.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin" (/admin/group.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_new" (/admin/group/new.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_create" (/admin/group.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_edit" (/admin/group/:id/edit.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_update" (/admin/group/:id.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_delete" (/admin/group/:id.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_show" (/admin/group/:id.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_object" (/admin/group/:id/:action.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_group_admin_collection" (/admin/group/:action/action.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin" (/admin/permission.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_new" (/admin/permission/new.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_create" (/admin/permission.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_edit" (/admin/permission/:id/edit.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_update" (/admin/permission/:id.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_delete" (/admin/permission/:id.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_show" (/admin/permission/:id.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_object" (/admin/permission/:id/:action.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "a_permission_admin_collection" (/admin/permission/:action/action.:sf_format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfRoute "a_sync" (/async/:action)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect aRoute "a_admin" (/)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect aRoute "a_media_other" (/:action)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect aRoute "a_media_image_show" (/view/:slug)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfRoute "a_media_image_original" (/uploads/media_items/:slug.original.:format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfRoute "a_media_image" (/uploads/media_items/:slug.:width.:height.:resizeType.:format)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect aRoute "a_media_index" (/)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect aRoute "a_media_index_type" (/:type)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect aRoute "a_media_index_category" (/category/:category)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect aRoute "a_media_index_tag" (/tag/:tag)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect aRoute "a_media_select" (/select)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfRoute "a_media_info" (/info)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfRoute "a_media_tags" (/tags)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect aRoute "a_media_upload_images" (/uploadImages)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect aRoute "a_media_edit_images" (/editImages)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect aRoute "a_media_new_video" (/newVideo)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect aRoute "a_media_edit_video" (/editVideo)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfRoute "taggable_add_tag" (/admin/addTag/:object_class/:object_id)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfRoute "taggable_remove_tag" (/admin/removeTag/:object_class/:object_id)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/login)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/logout)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_password" (/request_password)
+Nov 02 15:25:53 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'utf8' - ()
+Nov 02 15:25:53 symfony [info] {Doctrine_Connection_Statement} execute : SELECT a.id AS a__id, a.slug AS a__slug, a.template AS a__template, a.view_is_secure AS a__view_is_secure, a.archived AS a__archived, a.admin AS a__admin, a.author_id AS a__author_id, a.deleter_id AS a__deleter_id, a.engine AS a__engine, a.created_at AS a__created_at, a.updated_at AS a__updated_at, a.lft AS a__lft, a.rgt AS a__rgt, a.level AS a__level, LENGTH(a.slug) AS a__0 FROM a_page a WHERE (a.slug IN (?) AND a.engine IS NOT NULL) ORDER BY a__0 desc LIMIT 1 - (/)
+Nov 02 15:25:53 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'a',  'action' => 'show',  'slug' => '/',)
+Nov 02 15:25:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 02 15:25:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 02 15:25:53 symfony [info] {aActions} Call "aActions->executeShow()"
+Nov 02 15:25:53 symfony [info] {Doctrine_Connection_Statement} execute : SELECT a.id AS a__id, a.slug AS a__slug, a.template AS a__template, a.view_is_secure AS a__view_is_secure, a.archived AS a__archived, a.admin AS a__admin, a.author_id AS a__author_id, a.deleter_id AS a__deleter_id, a.engine AS a__engine, a.created_at AS a__created_at, a.updated_at AS a__updated_at, a.lft AS a__lft, a.rgt AS a__rgt, a.level AS a__level, a2.id AS a2__id, a2.page_id AS a2__page_id, a2.name AS a2__name, a2.culture AS a2__culture, a2.latest_version AS a2__latest_version, a3.id AS a3__id, a3.area_id AS a3__area_id, a3.version AS a3__version, a3.author_id AS a3__author_id, a3.diff AS a3__diff, a3.created_at AS a3__created_at, a3.updated_at AS a3__updated_at, a4.id AS a4__id, a4.slot_id AS a4__slot_id, a4.area_version_id AS a4__area_version_id, a4.permid AS a4__permid, a4.rank AS a4__rank, a5.id AS a5__id, a5.type AS a5__type, a5.variant AS a5__variant, a5.value AS a5__value, a6.id AS a6__id, a6.type AS a6__type, a6.service_url AS a6__service_url, a6.format AS a6__format, a6.width AS a6__width, a6.height AS a6__height, a6.embed AS a6__embed, a6.title AS a6__title, a6.description AS a6__description, a6.credit AS a6__credit, a6.owner_id AS a6__owner_id, a6.view_is_secure AS a6__view_is_secure, a6.created_at AS a6__created_at, a6.updated_at AS a6__updated_at, a6.slug AS a6__slug FROM a_page a LEFT JOIN a_area a2 ON a.id = a2.page_id AND (a2.culture = ?) LEFT JOIN a_area_version a3 ON a2.id = a3.area_id AND (a2.latest_version = a3.version) LEFT JOIN a_area_version_slot a4 ON a3.id = a4.area_version_id LEFT JOIN a_slot a5 ON a4.slot_id = a5.id LEFT JOIN a_slot_media_item a7 ON (a5.id = a7.slot_id) LEFT JOIN a_media_item a6 ON a6.id = a7.media_item_id WHERE (a.slug = ?) ORDER BY a4.rank asc - (en, /)
+Nov 02 15:25:53 symfony [info] {aActions} Change template to "CURRENT/default"
+Nov 02 15:25:53 symfony [info] {sfPHPView} Render "/home/hormigon/usvn/files/checkout/agroapex/apps/frontend/modules/a/templates/defaultTemplate.php"
+Nov 02 15:25:53 symfony [info] {main} Set slot "content_class"
+Nov 02 15:25:53 symfony [info] {main} Set slot "a-breadcrumb"
+Nov 02 15:25:53 symfony [info] {main} Set slot "a-subnav"
+Nov 02 15:25:53 symfony [info] {main} Call "a->executeArea()"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_area.php"
+Nov 02 15:25:53 symfony [info] {main} Set slot "a-slot-content-1-izquierda-2"
+Nov 02 15:25:53 symfony [info] {main} Call "a->executeSlot()"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_slot.php"
+Nov 02 15:25:53 symfony [info] {main} Call "aRichTextSlot->executeNormalView()"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aRichTextSlot/templates/_normalView.php"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_simpleEditWithVariants.php"
+Nov 02 15:25:53 symfony [info] {main} Set slot "a-slot-controls-1-izquierda-2"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_simpleEditButton.php"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_variant.php"
+Nov 02 15:25:53 symfony [info] {main} Get slot "a-slot-content-1-izquierda-2"
+Nov 02 15:25:53 symfony [info] {main} Set slot "a-slot-content-1-izquierda-3"
+Nov 02 15:25:53 symfony [info] {main} Call "a->executeSlot()"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_slot.php"
+Nov 02 15:25:53 symfony [info] {main} Call "aSlideshowSlot->executeNormalView()"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_normalView.php"
+Nov 02 15:25:53 symfony [info] {main} Call "aSlideshowSlot->executeSlideshow()"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_slideshow.php"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_slideshowItem.php"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_slideshowItem.php"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/aSlideshowSlot/templates/_slideshowItem.php"
+Nov 02 15:25:53 symfony [info] {main} Get slot "a-slot-content-1-izquierda-3"
+Nov 02 15:25:53 symfony [info] {main} Set slot "lado-der"
+Nov 02 15:25:53 symfony [info] {Doctrine_Connection_Statement} execute : SELECT a.id AS a__id, a.slug AS a__slug, a.template AS a__template, a.view_is_secure AS a__view_is_secure, a.archived AS a__archived, a.admin AS a__admin, a.author_id AS a__author_id, a.deleter_id AS a__deleter_id, a.engine AS a__engine, a.created_at AS a__created_at, a.updated_at AS a__updated_at, a.lft AS a__lft, a.rgt AS a__rgt, a.level AS a__level, a2.id AS a2__id, a2.page_id AS a2__page_id, a2.name AS a2__name, a2.culture AS a2__culture, a2.latest_version AS a2__latest_version, a3.id AS a3__id, a3.area_id AS a3__area_id, a3.version AS a3__version, a3.author_id AS a3__author_id, a3.diff AS a3__diff, a3.created_at AS a3__created_at, a3.updated_at AS a3__updated_at, a4.id AS a4__id, a4.slot_id AS a4__slot_id, a4.area_version_id AS a4__area_version_id, a4.permid AS a4__permid, a4.rank AS a4__rank, a5.id AS a5__id, a5.type AS a5__type, a5.variant AS a5__variant, a5.value AS a5__value FROM a_page a LEFT JOIN a_area a2 ON a.id = a2.page_id AND ((a2.name = ? AND a2.culture = ?)) LEFT JOIN a_area_version a3 ON a2.id = a3.area_id AND (a2.latest_version = a3.version) LEFT JOIN a_area_version_slot a4 ON a3.id = a4.area_version_id LEFT JOIN a_slot a5 ON a4.slot_id = a5.id WHERE ((a.lft > ? AND a.rgt < ?) AND a.level <= ?) ORDER BY a.lft asc - (title, en, 1, 34, 1)
+Nov 02 15:25:53 symfony [info] {main} Call "a->executeArea()"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_area.php"
+Nov 02 15:25:53 symfony [info] {sfPHPView} Decorate content with "/home/hormigon/usvn/files/checkout/agroapex/apps/frontend/templates/layout.php"
+Nov 02 15:25:53 symfony [info] {sfPHPView} Render "/home/hormigon/usvn/files/checkout/agroapex/apps/frontend/templates/layout.php"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_globalTools.php"
+Nov 02 15:25:53 symfony [info] {Doctrine_Connection_Statement} execute : SELECT a.id AS a__id, a.slug AS a__slug, a.template AS a__template, a.view_is_secure AS a__view_is_secure, a.archived AS a__archived, a.admin AS a__admin, a.author_id AS a__author_id, a.deleter_id AS a__deleter_id, a.engine AS a__engine, a.created_at AS a__created_at, a.updated_at AS a__updated_at, a.lft AS a__lft, a.rgt AS a__rgt, a.level AS a__level, a2.id AS a2__id, a2.page_id AS a2__page_id, a2.name AS a2__name, a2.culture AS a2__culture, a2.latest_version AS a2__latest_version, a3.id AS a3__id, a3.area_id AS a3__area_id, a3.version AS a3__version, a3.author_id AS a3__author_id, a3.diff AS a3__diff, a3.created_at AS a3__created_at, a3.updated_at AS a3__updated_at, a4.id AS a4__id, a4.slot_id AS a4__slot_id, a4.area_version_id AS a4__area_version_id, a4.permid AS a4__permid, a4.rank AS a4__rank, a5.id AS a5__id, a5.type AS a5__type, a5.variant AS a5__variant, a5.value AS a5__value, a6.id AS a6__id, a6.type AS a6__type, a6.service_url AS a6__service_url, a6.format AS a6__format, a6.width AS a6__width, a6.height AS a6__height, a6.embed AS a6__embed, a6.title AS a6__title, a6.description AS a6__description, a6.credit AS a6__credit, a6.owner_id AS a6__owner_id, a6.view_is_secure AS a6__view_is_secure, a6.created_at AS a6__created_at, a6.updated_at AS a6__updated_at, a6.slug AS a6__slug FROM a_page a LEFT JOIN a_area a2 ON a.id = a2.page_id AND (a2.culture = ?) LEFT JOIN a_area_version a3 ON a2.id = a3.area_id AND (a2.latest_version = a3.version) LEFT JOIN a_area_version_slot a4 ON a3.id = a4.area_version_id LEFT JOIN a_slot a5 ON a4.slot_id = a5.id LEFT JOIN a_slot_media_item a7 ON (a5.id = a7.slot_id) LEFT JOIN a_media_item a6 ON a6.id = a7.media_item_id WHERE (a.slug = ?) ORDER BY a4.rank asc - (en, /admin/media)
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_login.php"
+Nov 02 15:25:53 symfony [info] {sfPartialView} Render "/home/hormigon/usvn/files/checkout/agroapex/plugins/apostrophePlugin/modules/a/templates/_language.php"
+Nov 02 15:25:53 symfony [info] {main} Set slot "a-search"
+Nov 02 15:25:53 symfony [info] {main} Get slot "a-search"
+Nov 02 15:25:53 symfony [err] {sfRenderException} The template "_header.php" does not exist or is unreadable in "".
+Nov 02 15:25:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Nov 02 15:25:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Configuration 4.39 ms (16)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Factories 151.97 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.03 ms (5)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Action "a/show" 117.52 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} View "Template" for "a/show" 190.15 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Component "a/area" 0.84 ms (2)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Partial "a/_area" 33.72 ms (2)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Component "a/slot" 2.02 ms (2)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Partial "a/_slot" 22.52 ms (2)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Component "aRichTextSlot/normalView" 2.20 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Partial "aRichTextSlot/_normalView" 4.48 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Partial "a/_simpleEditWithVariants" 3.60 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Partial "a/_simpleEditButton" 1.73 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Partial "a/_variant" 0.74 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Component "aSlideshowSlot/normalView" 2.37 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Partial "aSlideshowSlot/_normalView" 8.52 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Component "aSlideshowSlot/slideshow" 0.19 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Partial "aSlideshowSlot/_slideshow" 6.02 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Partial "aSlideshowSlot/_slideshowItem" 1.47 ms (3)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Partial "a/_globalTools" 22.70 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Partial "a/_login" 1.34 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Partial "a/_language" 0.43 ms (1)
+Nov 02 15:25:53 symfony [info] {sfWebDebugLogger} Partial "a/_header" 57.87 ms (1)

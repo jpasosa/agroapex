@@ -1,0 +1,52 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/record
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+sfDoctrineRecordI18nFilter.class.php
+file
+
+
+
+
+2010-09-24T00:56:34.000000Z
+a87668cfcfbf3411658133d55e0e71f8
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+sfDoctrineRecord.class.php
+file
+
+
+
+
+2010-09-24T00:56:34.000000Z
+ae3b379e0b0a458f06eec6a9cbdbe04d
+2010-09-24T00:34:19.758571Z
+3
+diego
+

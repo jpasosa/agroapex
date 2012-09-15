@@ -1,0 +1,40 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/lib/task/configure
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+sfConfigureAuthorTask.class.php
+file
+
+
+
+
+2010-09-24T00:56:30.000000Z
+eb8e23ac88df7a28deb2f00b3a9b8907
+2010-09-24T00:34:19.758571Z
+3
+diego
+

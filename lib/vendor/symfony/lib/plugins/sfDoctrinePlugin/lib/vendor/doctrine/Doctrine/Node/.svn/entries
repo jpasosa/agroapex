@@ -1,0 +1,97 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Node
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+AdjacencyList.php
+file
+
+
+
+
+2010-09-24T00:56:33.000000Z
+8ac351d4dbfc878f5e5951821982f11f
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+Exception.php
+file
+
+
+
+
+2010-09-24T00:56:33.000000Z
+6c013ba14db7082422f652f95355a192
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+NestedSet.php
+file
+
+
+
+
+2010-09-24T00:56:33.000000Z
+cdf3a55d6d5eaff10a72670653be254b
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+Interface.php
+file
+
+
+
+
+2010-09-24T00:56:33.000000Z
+b128f4fbb97abb4da80ac965b9ce8d1b
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+MaterializedPath
+dir
+
+AdjacencyList
+dir
+
+MaterializedPath.php
+file
+
+
+
+
+2010-09-24T00:56:33.000000Z
+58ef68b80f3e25b0213230f7f47ab212
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+NestedSet
+dir
+

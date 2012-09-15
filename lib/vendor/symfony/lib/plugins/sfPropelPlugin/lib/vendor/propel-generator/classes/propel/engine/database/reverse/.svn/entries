@@ -1,0 +1,67 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/reverse
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+mssql
+dir
+
+sqlite
+dir
+
+SchemaParser.php
+file
+
+
+
+
+2010-09-24T00:56:36.000000Z
+e804d5e0089bcd20ab76c19c33393955
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+mysql
+dir
+
+oracle
+dir
+
+pgsql
+dir
+
+BaseSchemaParser.php
+file
+
+
+
+
+2010-09-24T00:56:36.000000Z
+fe515c8a0a02a937b08f39aa895dacd2
+2010-09-24T00:34:19.758571Z
+3
+diego
+

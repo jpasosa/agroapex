@@ -1,0 +1,142 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/web
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-12-02T14:16:50.132333Z
+86
+ferbal
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+Agroapex.ico
+file
+
+
+
+
+2010-11-01T15:06:57.000000Z
+58a6b49b63ae47c295a28f08afeac954
+2010-11-01T15:06:02.083497Z
+54
+juampa
+has-props
+
+sfDoctrinePlugin
+dir
+
+sfDoctrineActAsTaggablePlugin
+dir
+
+robots.txt
+file
+
+
+
+
+2010-09-23T22:52:00.000000Z
+58358960364e26d020c98d05aa8f27ad
+2010-09-23T22:51:55.023800Z
+2
+diego
+
+sfJqueryReloadedPlugin
+dir
+
+css
+dir
+
+servercheck.php
+file
+
+
+
+
+2010-09-23T22:52:00.000000Z
+7840728c26302c18bfdb48c4ba6dcad3
+2010-09-23T22:51:55.023800Z
+2
+diego
+
+index.php
+file
+
+
+
+
+2010-09-23T22:52:00.000000Z
+cba86dc68e236ddbfb787ebcdf06b467
+2010-09-23T22:51:55.023800Z
+2
+diego
+
+favicon.ico
+file
+
+
+
+
+2010-09-23T22:52:00.000000Z
+14377c97dff91fc9e24d1fd59b76aafe
+2010-09-23T22:51:55.023800Z
+2
+diego
+has-props
+
+apostrophePlugin
+dir
+
+frontend_dev.php
+file
+
+
+
+
+2010-11-03T13:44:40.000000Z
+16ccfa58df5ed33028354c330b6f5362
+2010-10-19T13:44:05.729778Z
+21
+juampa
+has-props
+
+images
+dir
+
+apostropheBlogPlugin
+dir
+
+uploads
+dir
+
+.htaccess
+file
+
+
+
+
+2010-09-23T22:52:00.000000Z
+316ab7a2478e42cca3842c3d941e27b5
+2010-09-23T22:51:55.023800Z
+2
+diego
+
+js
+dir
+

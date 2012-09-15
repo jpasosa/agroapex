@@ -1,0 +1,58 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/web/apostrophePlugin/css
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-12-02T14:16:50.132333Z
+86
+ferbal
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+ui-apostrophe
+dir
+
+a-ie.css
+file
+
+
+
+
+2010-10-21T16:59:04.000000Z
+878fdf05d6b49a292e60611bd6c0342a
+2010-10-13T20:46:57.198839Z
+10
+ferbal
+
+a.css
+file
+
+
+
+
+2010-11-09T19:43:12.000000Z
+e9511af9caeeb005297cb8d33ff6ee86
+2010-11-09T19:41:33.612797Z
+85
+ferbal
+
+ui-lightness
+dir
+

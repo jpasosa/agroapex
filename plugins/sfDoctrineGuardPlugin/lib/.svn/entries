@@ -1,0 +1,73 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/plugins/sfDoctrineGuardPlugin/lib
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+model
+dir
+
+task
+dir
+
+form
+dir
+
+filter
+dir
+
+validator
+dir
+
+sfGuardBasicSecurityFilter.class.php
+file
+
+
+
+
+2010-09-24T00:56:16.000000Z
+920f2b02fbd719df8a3f4076815b5251
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+routing
+dir
+
+sfGuardRememberMeFilter.class.php
+file
+
+
+
+
+2010-09-24T00:56:16.000000Z
+50bdb27b0c03a584052be47abc7d5d15
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+user
+dir
+

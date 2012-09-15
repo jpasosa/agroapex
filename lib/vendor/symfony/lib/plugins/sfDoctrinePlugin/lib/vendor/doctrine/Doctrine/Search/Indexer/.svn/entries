@@ -1,0 +1,52 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Indexer
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+Dir.php
+file
+
+
+
+
+2010-09-24T00:56:34.000000Z
+dae275a34355781b0c67401eb3d09711
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+Exception.php
+file
+
+
+
+
+2010-09-24T00:56:34.000000Z
+ee1e06db02275fc666594b75e93a2321
+2010-09-24T00:34:19.758571Z
+3
+diego
+

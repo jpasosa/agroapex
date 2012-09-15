@@ -1,0 +1,53 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/lib
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+Capsule.php
+file
+
+
+
+
+2010-09-24T00:56:36.000000Z
+e5c93c694cecb6063a70186027969e80
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+Zip.php
+file
+
+
+
+
+2010-09-24T00:56:36.000000Z
+3219e94973d87cce12d0ce88e96b5d25
+2010-09-24T00:34:19.758571Z
+3
+diego
+has-props
+

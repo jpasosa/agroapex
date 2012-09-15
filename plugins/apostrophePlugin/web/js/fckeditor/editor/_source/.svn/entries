@@ -1,0 +1,85 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/plugins/apostrophePlugin/web/js/fckeditor/editor/_source
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+internals
+dir
+
+fckeditorapi.js
+file
+
+
+
+
+2010-09-24T00:56:17.000000Z
+6d4c9ac9612af0184a45be32180a0b66
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+fckjscoreextensions.js
+file
+
+
+
+
+2010-09-24T00:56:17.000000Z
+713f8981f8619e11f7b430ae4834b8fd
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+fckscriptloader.js
+file
+
+
+
+
+2010-09-24T00:56:17.000000Z
+bc758f11290e77c8ffb414b74539965e
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+fckconstants.js
+file
+
+
+
+
+2010-09-24T00:56:17.000000Z
+133aacaef51e93246fd9848c982ff526
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+commandclasses
+dir
+
+classes
+dir
+

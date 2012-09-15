@@ -1,0 +1,91 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/plugins/sfDoctrineGuardPlugin
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+test
+dir
+
+LICENSE
+file
+
+
+
+
+2010-09-24T00:56:16.000000Z
+c0ab88a4687e9ff8e0fb6c95ca49ed74
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+config
+dir
+
+VERSION
+file
+
+
+
+
+2010-09-24T00:56:16.000000Z
+c0879261b3ffe363f27a5d1a6bb5ffcd
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+package.xml.tmpl
+file
+
+
+
+
+2010-09-24T00:56:16.000000Z
+24101e28df69bd891d10b3fb927233e2
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+lib
+dir
+
+modules
+dir
+
+data
+dir
+
+README
+file
+
+
+
+
+2010-09-24T00:56:16.000000Z
+e832ad7df536e4e23e58f9bb82fc624b
+2010-09-24T00:34:19.758571Z
+3
+diego
+

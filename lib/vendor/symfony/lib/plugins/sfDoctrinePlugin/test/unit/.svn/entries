@@ -1,0 +1,76 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/unit
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+form
+dir
+
+sfDoctrineColumnTest.php
+file
+
+
+
+
+2010-09-24T00:56:32.000000Z
+836468a8181dc348ad6a6092be64e3be
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+validator
+dir
+
+autoloaderTest.php
+file
+
+
+
+
+2010-09-24T00:56:32.000000Z
+efd90b4f4e3f31eee88e21449aa332ad
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+sfDoctrineDatabaseTest.php
+file
+
+
+
+
+2010-09-24T00:56:32.000000Z
+cd858e776972a21525dc98301f2431c1
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+pager
+dir
+
+record
+dir
+

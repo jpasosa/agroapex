@@ -1,0 +1,82 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+pagerTest.php
+file
+
+
+
+
+2010-09-24T00:56:35.000000Z
+f46f1cc135267281b69a1de7d41f4490
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+i18nTest.php
+file
+
+
+
+
+2010-09-24T00:56:35.000000Z
+0f1243b5d9b76fdc4302506577efecde
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+fixtures
+dir
+
+formTest.php
+file
+
+
+
+
+2010-09-24T00:56:35.000000Z
+6133d9cb13f0b98877c26c41494b3083
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+crud
+dir
+
+poolingTest.php
+file
+
+
+
+
+2010-09-24T00:56:35.000000Z
+a5be5d2ede06b55c6d8a030150f77335
+2010-09-24T00:34:19.758571Z
+3
+diego
+

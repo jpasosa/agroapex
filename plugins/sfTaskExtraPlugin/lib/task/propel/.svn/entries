@@ -1,0 +1,67 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/plugins/sfTaskExtraPlugin/lib/task/propel
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+sfPropelBuildAppFormsTask.class.php
+file
+
+
+
+
+2010-09-24T00:56:21.000000Z
+9e24ee110cce8be3903ae6a2ad042be3
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+sfPropelBuildAppFiltersTask.class.php
+file
+
+
+
+
+2010-09-24T00:56:21.000000Z
+4fa6d1d18ffaa9833539e3b07e78c454
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+skeleton
+dir
+
+sfTaskExtraPropelBaseTask.class.php
+file
+
+
+
+
+2010-09-24T00:56:21.000000Z
+f81664aadd53fd815ac7510fa4e4503e
+2010-09-24T00:34:19.758571Z
+3
+diego
+

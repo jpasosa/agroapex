@@ -1,0 +1,82 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/plugins/apostropheBlogPlugin/lib
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+actions
+dir
+
+model
+dir
+
+task
+dir
+
+form
+dir
+
+widget
+dir
+
+aBlogEvents.class.php
+file
+
+
+
+
+2010-09-24T00:56:20.000000Z
+678c8780ac1cdbbf7f190f9dc95aadfe
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+aBlogToolkit.class.php
+file
+
+
+
+
+2010-09-24T00:56:20.000000Z
+51d1cd332bbf13d95070f48fd7d18fde
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+filter
+dir
+
+EventCalendar.class.php
+file
+
+
+
+
+2010-09-24T00:56:20.000000Z
+ee62771cbbed81117665033c530c7854
+2010-09-24T00:34:19.758571Z
+3
+diego
+

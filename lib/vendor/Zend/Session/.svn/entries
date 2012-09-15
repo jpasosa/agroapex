@@ -1,0 +1,70 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/Zend/Session
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+Namespace.php
+file
+
+
+
+
+2010-09-24T00:56:21.000000Z
+eb4b50b1ee46eb07dd1fc60cd98e2f33
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+Exception.php
+file
+
+
+
+
+2010-09-24T00:56:21.000000Z
+36d22c6c78428a57cb0fd1f10114f4f7
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+Validator
+dir
+
+Abstract.php
+file
+
+
+
+
+2010-09-24T00:56:21.000000Z
+d087476a35f96d211098780ad162b04c
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+SaveHandler
+dir
+

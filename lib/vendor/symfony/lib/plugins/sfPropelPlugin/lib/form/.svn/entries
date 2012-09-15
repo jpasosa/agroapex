@@ -1,0 +1,52 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/form
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+sfFormPropel.class.php
+file
+
+
+
+
+2010-09-24T00:56:35.000000Z
+b5043a4788e6fa763b2f3791ca60b5b7
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+sfFormFilterPropel.class.php
+file
+
+
+
+
+2010-09-24T00:56:35.000000Z
+1fe77e3a5ff7ffc6b7cb4af472b4fe53
+2010-09-24T00:34:19.758571Z
+3
+diego
+

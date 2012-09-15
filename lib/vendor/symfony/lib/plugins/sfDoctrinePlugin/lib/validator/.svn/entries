@@ -1,0 +1,52 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/validator
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+sfValidatorDoctrineUnique.class.php
+file
+
+
+
+
+2010-09-24T00:56:33.000000Z
+5aec6bc5043b2d5fc68d7e45edd2473d
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+sfValidatorDoctrineChoice.class.php
+file
+
+
+
+
+2010-09-24T00:56:33.000000Z
+3485407901f9e778157581b3683cc438
+2010-09-24T00:34:19.758571Z
+3
+diego
+

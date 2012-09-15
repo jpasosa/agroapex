@@ -1,0 +1,100 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+default.properties
+file
+
+
+
+
+2010-09-24T00:56:36.000000Z
+9b384aead115144e7247182506d0dfbe
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+build.xml-local
+file
+
+
+
+
+2010-09-24T00:56:36.000000Z
+d4b1141aa15137f3bfc6ed64281a041d
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+pear
+dir
+
+bin
+dir
+
+build.properties-sample
+file
+
+
+
+
+2010-09-24T00:56:36.000000Z
+73a110a56283ba9fdaafa2b09b0baf4d
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+resources
+dir
+
+classes
+dir
+
+build-propel.xml
+file
+
+
+
+
+2010-09-24T00:56:36.000000Z
+a7edf6f1ec30d6fbf13a7c667526182a
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+build.xml
+file
+
+
+
+
+2010-09-24T00:56:36.000000Z
+03f7b2153051daeaf41231f19ca27512
+2010-09-24T00:34:19.758571Z
+3
+diego
+

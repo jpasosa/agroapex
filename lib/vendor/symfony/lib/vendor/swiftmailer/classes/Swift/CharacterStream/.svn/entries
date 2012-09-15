@@ -1,0 +1,52 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/CharacterStream
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+NgCharacterStream.php
+file
+
+
+
+
+2010-09-24T00:56:37.000000Z
+8ebbf26bee823212d80b8b32a6aa1d2d
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+ArrayCharacterStream.php
+file
+
+
+
+
+2010-09-24T00:56:37.000000Z
+749721908c6db791129ec7c1c9681bae
+2010-09-24T00:34:19.758571Z
+3
+diego
+

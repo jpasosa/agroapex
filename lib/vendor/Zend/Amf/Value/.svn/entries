@@ -1,0 +1,79 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/Zend/Amf/Value
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+MessageHeader.php
+file
+
+
+
+
+2010-09-24T00:56:28.000000Z
+bbbea04d40c5554b0b226e7470149ff1
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+ByteArray.php
+file
+
+
+
+
+2010-09-24T00:56:28.000000Z
+1728b2f1da6ba6816eae99423a1c556a
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+MessageBody.php
+file
+
+
+
+
+2010-09-24T00:56:28.000000Z
+14749868a4080259c38529526946f3ea
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+TraitsInfo.php
+file
+
+
+
+
+2010-09-24T00:56:28.000000Z
+776750b03a3102302651e1765ca57dbc
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+Messaging
+dir
+

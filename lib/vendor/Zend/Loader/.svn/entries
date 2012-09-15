@@ -1,0 +1,70 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/Zend/Loader
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+Autoloader
+dir
+
+Exception.php
+file
+
+
+
+
+2010-09-24T00:56:27.000000Z
+f708b1eb56f7b4f6be3b2ff94f660297
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+PluginLoader
+dir
+
+Autoloader.php
+file
+
+
+
+
+2010-09-24T00:56:27.000000Z
+a34ec53d3ded0ff3d193782aaa6b621e
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+PluginLoader.php
+file
+
+
+
+
+2010-09-24T00:56:27.000000Z
+359f146b1f11db364d46aa337b75a9ac
+2010-09-24T00:34:19.758571Z
+3
+diego
+

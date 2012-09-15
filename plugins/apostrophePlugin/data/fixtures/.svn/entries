@@ -1,0 +1,52 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/plugins/apostrophePlugin/data/fixtures
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+seed_data.yml
+file
+
+
+
+
+2010-09-24T00:56:17.000000Z
+54619ef364f002215a5fb4e3e28c4667
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+a_users_and_groups.yml.suggested
+file
+
+
+
+
+2010-09-24T00:56:17.000000Z
+aabb479d31e693ebadf816e767a58d6e
+2010-09-24T00:34:19.758571Z
+3
+diego
+

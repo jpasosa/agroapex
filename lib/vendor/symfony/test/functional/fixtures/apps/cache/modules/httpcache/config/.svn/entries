@@ -1,0 +1,40 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/test/functional/fixtures/apps/cache/modules/httpcache/config
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+cache.yml
+file
+
+
+
+
+2010-09-24T00:56:29.000000Z
+319eff10f632cfc3b29ae461e6e446cb
+2010-09-24T00:34:19.758571Z
+3
+diego
+

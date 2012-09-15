@@ -1,0 +1,58 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/Zend/Test/PHPUnit
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+Constraint
+dir
+
+Db
+dir
+
+ControllerTestCase.php
+file
+
+
+
+
+2010-09-24T00:56:27.000000Z
+e07bc722196dbe9b2c7b6c9855e485d2
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+DatabaseTestCase.php
+file
+
+
+
+
+2010-09-24T00:56:27.000000Z
+188b365f8d7486a3d90f87ea73e342a9
+2010-09-24T00:34:19.758571Z
+3
+diego
+

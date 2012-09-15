@@ -1,0 +1,79 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/plugins/sfTaskExtraPlugin/lib/task/doctrine
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+sfTaskExtraDoctrineBaseTask.class.php
+file
+
+
+
+
+2010-09-24T00:56:21.000000Z
+e9b24c8fa03baa89ce6428839034c9f9
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+skeleton
+dir
+
+sfDoctrineBuildAppFormsTask.class.php
+file
+
+
+
+
+2010-09-24T00:56:21.000000Z
+a17ca191f2200fdddecd0803f9cfc058
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+sfDoctrineCompileTask.class.php
+file
+
+
+
+
+2010-09-24T00:56:21.000000Z
+47ad38c1971cb69252cd3bd5b57ca262
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+sfDoctrineBuildAppFiltersTask.class.php
+file
+
+
+
+
+2010-09-24T00:56:21.000000Z
+1dcb17b69b8b0e93adae0c8c920db444
+2010-09-24T00:34:19.758571Z
+3
+diego
+

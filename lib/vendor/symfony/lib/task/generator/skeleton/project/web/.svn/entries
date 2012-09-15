@@ -1,0 +1,64 @@
+8
+
+dir
+86
+file:///home/hormigon/usvn/files/svn/agroapex/lib/vendor/symfony/lib/task/generator/skeleton/project/web
+file:///home/hormigon/usvn/files/svn/agroapex
+
+
+
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+358767db-0347-473c-a588-2cb21766eead
+
+images
+dir
+
+robots.txt
+file
+
+
+
+
+2010-09-24T00:56:30.000000Z
+58358960364e26d020c98d05aa8f27ad
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+uploads
+dir
+
+css
+dir
+
+.htaccess
+file
+
+
+
+
+2010-09-24T00:56:30.000000Z
+06b539362d5de8d6a15d520abefc8cca
+2010-09-24T00:34:19.758571Z
+3
+diego
+
+js
+dir
+
